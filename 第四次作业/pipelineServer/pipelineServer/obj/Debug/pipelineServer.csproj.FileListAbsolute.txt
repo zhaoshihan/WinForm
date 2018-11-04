@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2015\Projects\pipelineServer\pipelineServer\bin\Debug\pipelineServer.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\bin\Debug\pipelineServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\bin\Debug\pipelineServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\pipelineServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\pipelineServer_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\pipelineServer_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\pipelineServer.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\pipelineServer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\pipelineServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\pipelineServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\pipelineServer\pipelineServer\obj\Debug\pipelineServer.pdb

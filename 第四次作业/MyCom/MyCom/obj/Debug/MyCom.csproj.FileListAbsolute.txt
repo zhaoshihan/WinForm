@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2015\Projects\MyCom\MyCom\bin\Debug\MyCom.dll
+c:\users\administrator\documents\visual studio 2015\Projects\MyCom\MyCom\bin\Debug\MyCom.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\MyCom\MyCom\obj\Debug\MyCom.dll
+c:\users\administrator\documents\visual studio 2015\Projects\MyCom\MyCom\obj\Debug\MyCom.pdb

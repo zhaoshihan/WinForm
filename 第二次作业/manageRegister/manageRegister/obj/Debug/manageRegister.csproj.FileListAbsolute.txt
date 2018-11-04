@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2015\Projects\manageRegister\manageRegister\bin\Debug\manageRegister.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\manageRegister\manageRegister\bin\Debug\manageRegister.exe
+c:\users\administrator\documents\visual studio 2015\Projects\manageRegister\manageRegister\bin\Debug\manageRegister.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\manageRegister\manageRegister\obj\Debug\manageRegister.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\manageRegister\manageRegister\obj\Debug\manageRegister.exe
+c:\users\administrator\documents\visual studio 2015\Projects\manageRegister\manageRegister\obj\Debug\manageRegister.pdb

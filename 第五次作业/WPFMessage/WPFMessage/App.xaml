@@ -1,0 +1,9 @@
+﻿<Application x:Class="WPFMessage.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WPFMessage"
+             Startup="App_Startup">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

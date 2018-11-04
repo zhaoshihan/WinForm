@@ -1,0 +1,43 @@
+﻿<Window x:Class="ComDisplay.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ComDisplay"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="515.355" Width="1056.889">
+    <Grid>
+        <Button x:Name="button" Content="Experiment1" HorizontalAlignment="Left" Margin="96,67,0,0" VerticalAlignment="Top" Width="85"/>
+        <Button x:Name="button1" Content="Experiment2" HorizontalAlignment="Left" Margin="96,141,0,0" VerticalAlignment="Top" Width="85"/>
+        <Button x:Name="button2" Content="Experiment3" HorizontalAlignment="Left" Margin="96,207,0,0" VerticalAlignment="Top" Width="85"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="292,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label" Content="+" HorizontalAlignment="Left" Margin="426,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.25,-0.158"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="458,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox2" HorizontalAlignment="Left" Height="23" Margin="292,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label2" Content="-" HorizontalAlignment="Left" Margin="426,113,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox3" HorizontalAlignment="Left" Height="23" Margin="458,115,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox4" HorizontalAlignment="Left" Height="23" Margin="292,169,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label4" Content="*" HorizontalAlignment="Left" Margin="426,167,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox5" HorizontalAlignment="Left" Height="23" Margin="458,169,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox6" HorizontalAlignment="Left" Height="23" Margin="292,215,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label6" Content="/" HorizontalAlignment="Left" Margin="426,213,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.559,-2.398"/>
+        <TextBox x:Name="textBox7" HorizontalAlignment="Left" Height="23" Margin="458,213,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label1" Content="=" HorizontalAlignment="Left" Margin="595,65,0,0" VerticalAlignment="Top" RenderTransformOrigin="4.977,7.524"/>
+        <Label x:Name="label3" Content="=" HorizontalAlignment="Left" Margin="595,113,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="=" HorizontalAlignment="Left" Margin="595,166,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label7" Content="=" HorizontalAlignment="Left" Margin="595,212,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox8" HorizontalAlignment="Left" Height="23" Margin="641,65,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox9" HorizontalAlignment="Left" Height="23" Margin="641,113,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox10" HorizontalAlignment="Left" Height="23" Margin="641,167,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox11" HorizontalAlignment="Left" Height="23" Margin="641,213,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="buttonAdd" Content="Add" HorizontalAlignment="Left" Margin="803,65,0,0" VerticalAlignment="Top" Width="75" Click="buttonAdd_Click"/>
+        <Button x:Name="buttonSub" Content="Subtraction" HorizontalAlignment="Left" Margin="803,113,0,0" VerticalAlignment="Top" Width="75" Click="buttonSub_Click"/>
+        <Button x:Name="buttonMul" Content="Multiply" HorizontalAlignment="Left" Margin="803,167,0,0" VerticalAlignment="Top" Width="75" Click="buttonMul_Click"/>
+        <Button x:Name="buttonDiv" Content="Divide" HorizontalAlignment="Left" Margin="803,215,0,0" VerticalAlignment="Top" Width="75" Click="buttonDiv_Click"/>
+        <Button x:Name="WordTest1" Content="添加新的章节" HorizontalAlignment="Left" Margin="96,293,0,0" VerticalAlignment="Top" Width="107" RenderTransformOrigin="-0.52,0.591" Height="40" Click="WordTest1_Click"/>
+        <Button x:Name="WordTest2" Content="添加艺术字" HorizontalAlignment="Left" Margin="253,293,0,0" VerticalAlignment="Top" Width="108" Height="40"/>
+        <Button x:Name="WordTest3" Content="页眉添加文本信息" HorizontalAlignment="Left" Margin="426,293,0,0" VerticalAlignment="Top" Width="124" Height="40"/>
+        <TextBox x:Name="textBoxWord" HorizontalAlignment="Left" Height="44" Margin="96,365,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="265"/>
+
+    </Grid>
+</Window>

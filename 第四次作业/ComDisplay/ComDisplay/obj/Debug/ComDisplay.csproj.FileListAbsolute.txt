@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ComDisplay\ComDisplay\bin\Debug\ComDisplay.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\bin\Debug\ComDisplay.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\bin\Debug\ComDisplay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\bin\Debug\MyCom.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\bin\Debug\MyCom.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ComDisplay\ComDisplay\obj\Debug\ComDisplay.csproj.ResolveComReference.cache

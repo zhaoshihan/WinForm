@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\FileMerge\FileMerge\bin\Debug\FileMerge.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\bin\Debug\FileMerge.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\obj\Debug\FileMerge.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\obj\Debug\FileMerge.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\obj\Debug\FileMerge.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\obj\Debug\FileMerge.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\bin\Debug\FileMerge.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\bin\Debug\FileMerge.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\obj\Debug\FileMerge.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\FileMerge\FileMerge\obj\Debug\FileMerge.pdb

@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\bin\Debug\WPFMessage.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\WPFMessage.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\SubWindow.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\WPFMessage_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\WPFMessage_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\bin\Debug\WPFMessage.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\bin\Debug\WPFMessage.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\SubWindow.baml
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\WPFMessage.g.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\WPFMessage.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\WPFMessage.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\WPFMessage.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WPFMessage\WPFMessage\obj\Debug\WPFMessage.pdb

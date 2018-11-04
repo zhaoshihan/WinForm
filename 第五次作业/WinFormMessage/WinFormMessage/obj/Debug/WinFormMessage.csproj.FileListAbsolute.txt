@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\bin\Debug\WinFormMessage.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\obj\Debug\WinFormMessage.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\obj\Debug\WinFormMessage.FormTest.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\obj\Debug\WinFormMessage.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\obj\Debug\WinFormMessage.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\bin\Debug\WinFormMessage.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\bin\Debug\WinFormMessage.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\obj\Debug\WinFormMessage.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\obj\Debug\WinFormMessage.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WinFormMessage\WinFormMessage\obj\Debug\WinFormMessage.FormSub.resources

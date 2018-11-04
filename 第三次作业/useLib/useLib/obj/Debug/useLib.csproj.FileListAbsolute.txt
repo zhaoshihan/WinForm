@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\useLib\useLib\bin\Debug\useLib.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\useLib\useLib\bin\Debug\useLib.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\useLib\useLib\bin\Debug\useLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\useLib\useLib\bin\Debug\testLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\useLib\useLib\obj\Debug\useLib.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\useLib\useLib\obj\Debug\useLib.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\useLib\useLib\obj\Debug\useLib.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\useLib\useLib\bin\Debug\useLib.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\useLib\useLib\obj\Debug\useLib.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Windows程序设计\useLib\useLib\obj\Debug\useLib.pdb
