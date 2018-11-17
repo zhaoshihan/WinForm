@@ -22,29 +22,31 @@ namespace BoundedBufferProblem
 
 
 
-        static Thread producerThread;
-        static Thread producerThread2;
+        static Thread[] producerThread;
 
-        static Thread consumerThread;
-        static Thread consumerThread2;
-        static Thread consumerThread3;
+        static Thread[] consumerThread;
 
         static void Main(string[] args)
         {
-            producerThread = new Thread(producer2);
-            producerThread2 = new Thread(producer2);
+            Console.WriteLine("Please input the number of producer: ");
+            int producers = Convert.ToInt32(Console.ReadLine());
+            producerThread = new Thread[producers];
+            Console.WriteLine("Please input the number of customer: ");
+            int consumers = Convert.ToInt32(Console.ReadLine());
+            consumerThread = new Thread[consumers];
 
+            for(int i=0; i < producers; i++)
+            {
+                producerThread[i] = new Thread(producer2);
+                producerThread[i].Start();
+            }
 
-            consumerThread = new Thread(consumer2);
-            consumerThread2 = new Thread(consumer2);
-            consumerThread3 = new Thread(consumer2);
-
-            producerThread.Start();
-            producerThread2.Start();
-
-            consumerThread.Start();
-            consumerThread2.Start();
-            consumerThread3.Start();
+            for(int i=0; i< consumers; i++)
+            {
+                consumerThread[i] = new Thread(consumer2);
+                consumerThread[i].Start();
+            }
+           
         }
 
         // 将产品放入缓存中

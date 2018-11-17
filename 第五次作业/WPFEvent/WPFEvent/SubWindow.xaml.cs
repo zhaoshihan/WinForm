@@ -31,8 +31,8 @@ namespace WPFEvent
 
         private void buttonAlarm_Click(object sender, RoutedEventArgs e)
         {
-            //if (updateMainwindowLabel != null)
-            //    updateMainwindowLabel(textBox.Text.Trim());
+            if (updateMainwindowLabel != null)
+                updateMainwindowLabel(textBox.Text.Trim());
 
             myFireAlarm.ActivateFireAlarm("Kitchen", 3);
             myFireAlarm.ActivateFireAlarm("Study", 1);

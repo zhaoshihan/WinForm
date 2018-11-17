@@ -29,7 +29,7 @@ namespace WPFEvent
             SubWindow subWindow = new SubWindow();
             subWindow.Activate();
             subWindow.Show();
-            subWindow.updateMainwindowLabel += SubWindow_updateMainwindowLabel; // 用 += 操作符添加事件到事件队列中
+            subWindow.updateMainwindowLabel += SubWindow_updateMainwindowLabel; // 用 += 操作符添加事件处理函数到事件队列中
             SubWindow.myFireAlarm.FireEvent += new FireAlarm.FireEventHandler(ExtinguishFire);
         }
 
